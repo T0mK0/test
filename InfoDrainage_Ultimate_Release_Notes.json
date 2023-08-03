@@ -1,0 +1,72 @@
+{
+  "releaseNotes": {
+    "localizedLinks": [
+      {
+        "langCode": "en-US",
+        "langName": "English - United States",
+        "links": [
+          {
+            "type": "Documentation",
+            "url": "https://help.autodesk.com/view/INFDS/ENU/?contextId=WHATS_NEW",
+            "urlName": "Release Notes"
+          }
+        ]
+      },
+	  {
+        "langCode": "en-GB",
+        "langName": "English - Great Britain",
+        "links": [
+          {
+            "type": "Documentation",
+            "url": "https://help.autodesk.com/view/INFDS/ENG/?contextId=WHATS_NEW",
+            "urlName": "Release Notes"
+          }
+        ]
+      },	  
+	  {
+        "langCode": "ja-JP",
+        "langName": "Japanese",
+        "links": [
+          {
+            "type": "Documentation",
+            "url": "https://help.autodesk.com/view/INFDS/JPN/?contextId=WHATS_NEW",
+            "urlName": "Release Notes"
+          }
+        ]
+      },
+	  {
+        "langCode": "de-DE",
+        "langName": "German",
+        "links": [
+          {
+            "type": "Documentation",
+            "url": "https://help.autodesk.com/view/INFDS/DEU/?contextId=WHATS_NEW",
+            "urlName": "Release Notes"
+          }
+        ]
+      },
+	  {
+        "langCode": "fr-FR",
+        "langName": "French",
+        "links": [
+          {
+            "type": "Documentation",
+            "url": "https://help.autodesk.com/view/INFDS/FRA/?contextId=WHATS_NEW",
+            "urlName": "Release Notes"
+          }
+        ]
+      },
+	  {
+        "langCode": "es-ES",
+        "langName": "Spanish",
+        "links": [
+          {
+            "type": "Documentation",
+            "url": "https://help.autodesk.com/view/INFDS/ESP/?contextId=WHATS_NEW",
+            "urlName": "Release Notes"
+          }
+        ]
+      }
+	  ]
+  }
+}
